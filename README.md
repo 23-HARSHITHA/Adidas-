@@ -7,6 +7,7 @@ Sum of operating profit city wise.
 Sum of operating profit year wise.
 Sum of operating profit reatailer wise
 Sum of operating profit product wise
+Also added some kpis in sheet 7.
 Finally made charts for visualizations using pivot charts.
 
 
